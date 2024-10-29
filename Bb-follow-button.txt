@@ -1,0 +1,10 @@
+=== Plugin Name ===
+Contributors: xopx
+Donate link: http://#
+Tags: follow,button,editor
+Requires at least: 3.0
+Tested up to: 3.1.4
+
+== Description ==
+
+The plugin simply allow an author to add a new Twitter's button "Follow" in posts. Basically it allows the inclusion of the SCRIPT tag and an attribute "SHOW-DATE-COUNT" in the editor
